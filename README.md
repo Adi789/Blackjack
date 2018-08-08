@@ -5,3 +5,4 @@ The rules in this game are same to a traditional Blackjack game with 21 being th
 The game has an option to suffle new card if the user wishes 
 A new game button is also included which restarts the game.
 There is also a scoreboard which calculates the wins and losses of player. I did not make for the dealer as there was no reason at that time.
+The concept and the idea was published my Udemy.com
